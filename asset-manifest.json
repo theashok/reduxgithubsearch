@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reduxgithubsearch/static/css/main.fd1bf654.chunk.css",
+    "main.js": "/reduxgithubsearch/static/js/main.7f8ca5e3.chunk.js",
+    "main.js.map": "/reduxgithubsearch/static/js/main.7f8ca5e3.chunk.js.map",
+    "runtime-main.js": "/reduxgithubsearch/static/js/runtime-main.9b1552ab.js",
+    "runtime-main.js.map": "/reduxgithubsearch/static/js/runtime-main.9b1552ab.js.map",
+    "static/css/2.24e7bf57.chunk.css": "/reduxgithubsearch/static/css/2.24e7bf57.chunk.css",
+    "static/js/2.5884b8fb.chunk.js": "/reduxgithubsearch/static/js/2.5884b8fb.chunk.js",
+    "static/js/2.5884b8fb.chunk.js.map": "/reduxgithubsearch/static/js/2.5884b8fb.chunk.js.map",
+    "index.html": "/reduxgithubsearch/index.html",
+    "precache-manifest.b6d76fd15187319900fb65d2b6a7f0c2.js": "/reduxgithubsearch/precache-manifest.b6d76fd15187319900fb65d2b6a7f0c2.js",
+    "service-worker.js": "/reduxgithubsearch/service-worker.js",
+    "static/css/2.24e7bf57.chunk.css.map": "/reduxgithubsearch/static/css/2.24e7bf57.chunk.css.map",
+    "static/css/main.fd1bf654.chunk.css.map": "/reduxgithubsearch/static/css/main.fd1bf654.chunk.css.map",
+    "static/js/2.5884b8fb.chunk.js.LICENSE.txt": "/reduxgithubsearch/static/js/2.5884b8fb.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/reduxgithubsearch/static/media/arrow_right.d9ccc77c.svg",
+    "static/media/App.css": "/reduxgithubsearch/static/media/bg-grocery.1540053d.jpg",
+    "static/media/font-awesome-5.8.1.css": "/reduxgithubsearch/static/media/fa-solid-900.f9b85c94.woff2",
+    "static/media/spinner.gif": "/reduxgithubsearch/static/media/spinner.26ef8bb4.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b1552ab.js",
+    "static/css/2.24e7bf57.chunk.css",
+    "static/js/2.5884b8fb.chunk.js",
+    "static/css/main.fd1bf654.chunk.css",
+    "static/js/main.7f8ca5e3.chunk.js"
+  ]
+}
