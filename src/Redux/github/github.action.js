@@ -13,7 +13,7 @@ import { clientID, clientSecret } from "../../components/githubCredentials";
 let fetchProfile = (username) => {
   return (dispatch) => {
     dispatch({ type: FETCH_PROFILE_REQUEST });
-    let dataURL = `http://api.github.com/users/${username}?clientId=${clientID}&clientSecret=${clientSecret}`;
+    let dataURL = `https://api.github.com/users/${username}?clientId=${clientID}&clientSecret=${clientSecret}`;
     Axios.get(dataURL)
       .then((response) => {
         dispatch({ type: FETCH_PROFILE_SUCCESS, payload: response.data });
@@ -28,7 +28,7 @@ let fetchProfile = (username) => {
 let fetchRepos = (username) => {
   return (dispatch) => {
     dispatch({ type: FETCH_REPOS_REQUEST });
-    let dataURL = `http://api.github.com/users/${username}/repos?clientId=${clientID}&clientSecret=${clientSecret}`;
+    let dataURL = `https://api.github.com/users/${username}/repos?clientId=${clientID}&clientSecret=${clientSecret}`;
     Axios.get(dataURL)
       .then((response) => {
         dispatch({ type: FETCH_REPOS_SUCCESS, payload: response.data });
